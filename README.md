@@ -10,7 +10,7 @@
 Due to the complexity of merging the code how we implemented the above, we decided to forked away this project and planned to collaborate in the future to see what the original ADOP project can re-use.
 
 Here is the front page:  
-![HomePage](https://github.com/bagacute21/cicd-docker-compose/pdc-ext/img/adop_pdc_home_page.png)
+![HomePage](https://github.com/bagacute21/cicd-docker-compose/blob/master/img/adop_pdc_home_page.png)
 
 # General Installation Guide
 ---
