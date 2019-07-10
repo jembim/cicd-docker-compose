@@ -145,7 +145,7 @@ sonar:
 jenkins:
   container_name: jenkins
   restart: always
-  image: bagacute/jenkins:2-0.1.1
+  image: theouscreo/jenkins:0.1
   #build: ../images/docker-jenkins/
   net: ${CUSTOM_NETWORK_NAME}
   expose:

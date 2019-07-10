@@ -1,5 +1,5 @@
 jenkins:
-  image: bagacute/jenkins:2-0.1.1
+  image: theouscreo/jenkinsg:0.1
   environment:
     ADOP_GERRIT_ENABLED: "false"
     ADOP_GITLAB_ENABLED: "true"
